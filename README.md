@@ -1,4 +1,4 @@
 # Millet.github.io
 
 
-This is a  millets website
+This is a  millets information website
